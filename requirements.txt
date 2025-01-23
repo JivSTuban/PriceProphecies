@@ -1,2 +1,6 @@
 streamlit
 pandas
+websockets
+freecurrencyapi
+python-dotenv
+openai
